@@ -1,0 +1,6 @@
+C:\Users\mohaK\source\repos\Calculadora\.vs\Calculadora\lut\0\b\Calculadora.exe.config
+C:\Users\mohaK\source\repos\Calculadora\.vs\Calculadora\lut\0\b\Calculadora.exe
+C:\Users\mohaK\source\repos\Calculadora\.vs\Calculadora\lut\0\i\Calculadora\Release\Calculadora.csprojAssemblyReference.cache
+C:\Users\mohaK\source\repos\Calculadora\.vs\Calculadora\lut\0\i\Calculadora\Release\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mohaK\source\repos\Calculadora\.vs\Calculadora\lut\0\i\Calculadora\Release\Calculadora.csproj.CopyComplete
+C:\Users\mohaK\source\repos\Calculadora\.vs\Calculadora\lut\0\i\Calculadora\Release\Calculadora.exe

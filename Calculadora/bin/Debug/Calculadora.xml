@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Calculadora</name>
+    </assembly>
+    <members>
+        <member name="M:calculadora.Program.Suma(System.Int32,System.Int32)">
+            <summary>
+            Sumas the specified a.
+            </summary>
+            <param name="a">a.</param>
+            <param name="b">The b.</param>
+            <returns></returns>
+        </member>
+        <member name="M:calculadora.Program.Main(System.String[])">
+            <summary>
+            Defines the entry point of the application.
+            </summary>
+            <param name="args">The arguments.</param>
+        </member>
+    </members>
+</doc>

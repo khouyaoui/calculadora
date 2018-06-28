@@ -1,0 +1,8 @@
+C:\Users\mohaK\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\mohaK\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\mohaK\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\mohaK\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\mohaK\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\mohaK\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mohaK\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\mohaK\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
